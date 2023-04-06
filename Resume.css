@@ -1,0 +1,15 @@
+html {
+   box-sizing: border-box;
+}
+
+*, *::before, *::after {
+   box-sizing: inherit;
+}
+
+p {
+   font: 14pt Georgia;
+}
+
+h1{
+   text-align: center;
+}
