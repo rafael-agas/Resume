@@ -10,6 +10,35 @@ p {
    font: 14pt Georgia;
 }
 
-h1{
+h1, h2, h3{
    text-align: center;
+}
+
+h1 {
+   font: 100px bold Georgia;
+}
+
+h2 {
+   font: 45px bold Georgia;
+}
+
+h3 {
+   font: 30px bold Georgia;
+}
+
+.textcolor {
+   background-color: #edebeb;
+   border-radius: 25px;
+   padding: 10px; 
+   margin: 50px 50px 50px 50px;
+}
+
+body{
+   background-color: #bcbcff;
+}
+
+.container {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
 }
