@@ -19,11 +19,23 @@ h1 {
 }
 
 h2 {
-   font: 45px bold Georgia;
+   font: 50px bold Georgia;
 }
 
 h3 {
+   font: 40px bold Georgia;
+}
+
+h4 {
    font: 30px bold Georgia;
+}
+
+h5 {
+   font: 25px bold Georgia;
+}
+
+h6 {
+   font: 20px bold Georgia;
 }
 
 .textcolor {
