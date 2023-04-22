@@ -54,3 +54,8 @@ body{
    flex-direction: row;
    justify-content: space-evenly;
 }
+
+.around {
+   padding: 0;
+   margin: 5px;
+}
