@@ -59,3 +59,18 @@ body{
    padding: 0;
    margin: 5px;
 }
+
+#avatar {
+   align-items: center;
+   justify-content: center;
+}
+
+#linktree {
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.nav_image {
+   height: 50px
+}
